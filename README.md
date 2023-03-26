@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ValiM1102
 - 👀 I’m interested in automotive stuff.
-- 🌱 I’m currently learning CSS, Html and JS
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on diferent projects and learn with others.
 - 📫 How to reach me: 
 - mail: vmihaila333@gmail.com
